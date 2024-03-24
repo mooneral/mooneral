@@ -5,7 +5,7 @@
 
 ## 🌱 I'm currently learning
 
-AWS, Multi-Agent systems, Cryptocurrency, Blockchain
+Multi-Agent application, Blockchain Development
 
 ## 🤝 I'm looking to collaborate on
 
