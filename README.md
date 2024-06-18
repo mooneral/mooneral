@@ -5,11 +5,11 @@
 
 ## 🌱 I'm currently learning
 
-Multi-Agent application, Blockchain Development
+Agentic system design and Blockchain
 
 ## 🤝 I'm looking to collaborate on
 
-LLM powered applications and assistants
+LLM powered frameworks and Agentic Systems
 
 ## 💬 Ask me about
 
@@ -19,15 +19,16 @@ LLM powered applications and assistants
 ## 🛠️ My Skills
 
 - Python
-- Cloud Platforms (AWS)
+- AWS
+- LLM Apps
+- MLOps
 - PyTorch
 - Langchian
 - Llama-index
 - FastAPI
-- Pandas
 - SQL
 - Machine Learning / Deep Learning
-- MLOps
+
 
 
 <h3 align="left">Find me on: </h3>
